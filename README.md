@@ -34,3 +34,9 @@ python step1_data.py
 python step2_graph.py
 python step3_sequence.py
 python train_full_model.py
+
+⚠️ Note
+Dataset is not included due to large size. Please use your own dataset.
+
+👨‍💻 Author
+Saurabh Rai
